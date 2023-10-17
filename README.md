@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niuginidev&label=Profile%20views&color=0e75b6&style=flat" alt="niuginidev" /> </p>
 
-- 📝 I regularly write articles on [https://www.pngfreenet.com](https://www.pngfreenet.com)
+- 📝 I regularly write articles on [https://www.kumultricks.live](https://www.kumultricks.live)
 
-- 📫 How to reach me **dev@pngfreenet.com**
+- 📫 How to reach me **support@kumultricks.live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
