@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niuginidev&label=Profile%20views&color=0e75b6&style=flat" alt="niuginidev" /> </p>
 
-- 📝 I regularly write articles on [https://blog.kumultricks.live](https://www.kumultricks.live)
+- 📝 I regularly write articles on [https://blog.kumultricks.live](https://blog.kumultricks.live)
 
 - 📫 How to reach me **support@kumultricks.live**
 
